@@ -1,4 +1,3 @@
-from python_automation_practice_ui.web_driver.web_driver import WebDriver
 from selenium.webdriver.common.by import By
 
 
