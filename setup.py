@@ -23,7 +23,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(include=['python_automation_practice_ui*']),
     include_package_data=True,
-    package_data={"": ["*.properties"]},
+    package_data={"": ["*.properties", "*.feature"]},
     version='1.0',
     description='Web driver and Ui implementation for Python Automation Practice Project',
     author='Phat Trinh',
